@@ -1,0 +1,31 @@
+{
+  "name": "easy-spa",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "dependencies": {
+    "webpack": "^5.31.2"
+  },
+  "devDependencies": {
+    "axios": "^0.21.1",
+    "html-loader": "^2.1.2",
+    "webpack-cli": "^4.6.0",
+    "webpack-dev-server": "^3.11.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack",
+    "serve": "webpack serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndsuLucas/EasySpa.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndsuLucas/EasySpa/issues"
+  },
+  "homepage": "https://github.com/AndsuLucas/EasySpa#readme"
+}
